@@ -12,4 +12,6 @@ add a `.env` file in the root directory, use `.env.example` file for reference
 
 then
 
+`npm i`
+
 `npm run dev`
